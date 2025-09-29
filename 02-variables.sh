@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Arguments
 PERSON1=$1
